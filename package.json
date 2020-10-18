@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "To computer JS on server side",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chavangorakh1999/calculator.git"
+  },
+  "author": "Gorakh chavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chavangorakh1999/calculator/issues"
+  },
+  "homepage": "https://github.com/chavangorakh1999/calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
